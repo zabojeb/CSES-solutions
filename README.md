@@ -1,5 +1,10 @@
 # CSES-solutions
 My CSES Problem Set solutions in Python
+Currently i have only 10/300 problems solved
+
+[My statistics](https://cses.fi/problemset/user/307791/)
+
+[My profile](https://cses.fi/user/307791/)
 
 ## Tasks
 
